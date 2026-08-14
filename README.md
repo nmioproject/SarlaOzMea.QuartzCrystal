@@ -1,3 +1,3 @@
 # SarlaOzMea.QuartzCrystal
 
-- [website](https://memora.ozmea.net/ja/PublishFreeSoftware/SarlaOzMea)
+- [website](https://memora.ozmea.net/ja/PublishFreeSoftware/SarlaOzMeaQuartzCrystal)
